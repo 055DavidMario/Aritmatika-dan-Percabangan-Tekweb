@@ -38,7 +38,7 @@
                         </button>
                     </div>
                     <div class="flex mr-2">
-                        <a href="/deFret"
+                        <a href="/deret"
                             class="mt-3 cursor-pointer px-4 py-2.5 text-base text-white bg-red-500 rounded-md hover:shadow-lg hover:opacity-50 transition duration-300 ease-in-out">
                             Reset
                         </a>
